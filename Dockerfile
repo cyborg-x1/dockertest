@@ -1,3 +1,3 @@
 FROM alpine
 
-RUN apk install wget
+RUN apk add wget
